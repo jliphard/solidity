@@ -1,3 +1,8 @@
+### 0.7.8 (unreleased)
+
+Bugfixes:
+ * Control Flow Graph: Fix missing error for access to uninitialized variables.
+
 ### 0.7.6 (2020-12-16)
 
 Language Features:
